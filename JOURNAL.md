@@ -35,5 +35,9 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 <img width="2016" height="1512" alt="IMG_6510" src="https://github.com/user-attachments/assets/6b8217fb-f080-46a5-8d16-3c24ba5302ba" />
 
 
-### Next steps :
+### Next steps : 
+
+[[oscarliang.com]] for detailed drone info
+- look at other DIY drone configuration to get an idea of what's doable and to-do
+- get insight on electronic components, how to use them
 
