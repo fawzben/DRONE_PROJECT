@@ -31,5 +31,9 @@ Loads of electronics, solid mechanics. Some programming, thermodynamics, fluid m
 
 This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrack$
 
+<img width="2016" height="1512" alt="IMG_6509" src="https://github.com/user-attachments/assets/d72e5b0b-19d3-4da3-b62c-cca9b946c278" />
+<img width="2016" height="1512" alt="IMG_6510" src="https://github.com/user-attachments/assets/6b8217fb-f080-46a5-8d16-3c24ba5302ba" />
+
+
 ### Next steps :
 
