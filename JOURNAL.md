@@ -41,3 +41,27 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 - look at other DIY drone configuration to get an idea of what's doable and to-do
 - get insight on electronic components, how to use them
 
+
+## Entry 2 (20/08/25)
+
+
+**What I did :**
+
+
+- Learned how controller transmits to arduino
+
+- Learned how arduino corrects errror using IMU and PID algorithm (detailed in [Tips])
+
+
+- Started a "shopping list". To be completed later. I can already buy the ard. card and controller (found a good, standard cheap one)
+
+**Next steps :**
+
+
+- Start buying material (long shipping, and will let me start experiment coding)
+
+- Do more of the physics (particularly cinematics, structure and material resistance)
+
+
+
+
