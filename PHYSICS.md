@@ -6,6 +6,9 @@
 
 
 
+- **Propellers :** 2 CW ; 2 CCW to cancel out spin force (otherwise the drone would start spinning uncontrolably)
+
+
 $$T_{tot}=2mg$$  
 
 
