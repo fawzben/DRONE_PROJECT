@@ -17,7 +17,6 @@ Loads of electronics, solid mechanics. Some programming, thermodynamics, fluid m
 - IMU : ONBOARD sensor that gives real-time drone orientation (accelerometer, gyroscope,...)
 - Batteries : 1 for each propeller, gives power for thrust
 - ESCs : 1 for each propeller, tells the battery how much power to allow at each moment (speed change)
-- Propellers : 2 CW , 2 CCW to cancel out forces and keep the drone still
 - microcontroller : ONBOARD (probably) arduino (raspberry has OS-related delays, not optimal for high frequency commands)
 - Radio receiver (controller) : transmits the user's commands to the Arduino
 
