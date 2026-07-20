@@ -53,14 +53,21 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 - Learned how arduino corrects errror using IMU and PID algorithm (detailed in [Tips])
 
 
-- Started a "shopping list". To be completed later. I can already buy the ard. card and controller (found a good, standard cheap one)
+- Started a "shopping list". To be completed later
+
+- - Start buying material (long shipping, and will let me start experiment coding). Bought electronics and soldering stuff
 
 **Next steps :**
 
 
-- Start buying material (long shipping, and will let me start experiment coding)
+- Keep buying material (long shipping, and will let me start experiment coding)
 
-- Do more of the physics (particularly cinematics, structure and material resistance)
+- Set up coding environment
+
+- Starting CADing drone frame, and do physics in parallel (e.g. total weight, to pick the right propellers)
+
+- Do more of the physics (particularly dynamics, structure and material resistance)
+
 
 
 
