@@ -12,4 +12,7 @@ To read the pulsations (PWM) from the controller on the arduino :
 	float desired_pitch_angle = map(raw_pitch_pulse, 1000, 2000, -20.0, 20.0);
 
 
-Once you have the desired pitched angle, the [[PID]] compares it with the IMU actual_pitch_angle to adjust the motors speeds
+<img width="4032" height="3024" alt="IMG_6517" src="https://github.com/user-attachments/assets/cab47e3e-24fd-4795-a2ba-efac2beb558c" />
+
+
+Once you have the desired pitched angle, the PID compares it with the IMU actual_pitch_angle to adjust the motors speeds
