@@ -39,6 +39,8 @@ In code :
 	  previous_error = error;
 
 
+To find the coefficients, do ***PID tuning*** (tutorial [https://oscarliang.com/pid-filter-tuning-blackbox/#PID-Tuning])
+
 **WARNING** : 
 
 Only works well if : 
