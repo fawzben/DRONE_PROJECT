@@ -55,7 +55,7 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 
 - Started a "shopping list". To be completed later
 
-- - Start buying material (long shipping, and will let me start experiment coding). Bought electronics and soldering stuff
+- Start buying material (long shipping, and will let me start experiment coding). Bought electronics and soldering stuff
 
 **Next steps :**
 
