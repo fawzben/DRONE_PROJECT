@@ -1,0 +1,15 @@
+## Tips
+
+
+To read the pulsations (PWM) from the controller on the arduino : 
+
+	// 1. Read raw pulse length from receiver channel 2 (Pitch axis)
+	int raw_pitch_pulse = pulseIn(PITCH_PIN, HIGH); // Output: ~1000 to 2000 microseconds
+	
+	// 2. Map raw microsecond pulse to a target tilt angle in degrees
+	// If stick is centered (1500us), target angle = 0 degrees.
+	// If stick is full forward (2000us), target angle = +20 degrees.
+	float desired_pitch_angle = map(raw_pitch_pulse, 1000, 2000, -20.0, 20.0);
+
+
+Once you have the desired pitched angle, the [[PID]] compares it with the IMU actual_pitch_angle to adjust the motors speeds
