@@ -3,7 +3,8 @@
 
 |       |                                                                            |
 | -------- | -------------------------------------------------------------------------- |
-| Bought : | To buy :                                                                   |
-|          | arduino card ≈ 30chf                                                       |
-|          | FlySky FS-i6 (radio controller) ≈30chf (comes with onboard radio receiver) |
-|          |                                                                            |
+| Bought (so far ≈60chf): | To buy :                                                                   |
+|ESP32 micrcontroller          |                                                     |
+|IMU sensor                                         | FlySky FS-i6 (radio controller) + FS-iA6B receiver ≈30chf                  |
+|Breadboard + Jumper Wires + silicone wire          |                                                                         |
+|Soldering kit + solder wire + shrinking heat sleeve|                                                                         |
