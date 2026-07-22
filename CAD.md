@@ -14,3 +14,9 @@
 
 - **EDIT** : the centerplate is not ideal, we'll change it to a rectangular centerplate, to have more space for all holes + components. The battery below will rule the weight repartition by sliding along that rectangle til dead center CG
 
+<img width="1405" height="675" alt="Screenshot 2026-07-22 at 16 43 17" src="https://github.com/user-attachments/assets/f1a2cec9-2e8a-4bef-8401-e6bd2014abed" />
+
+- possible change : will have 2 M3 bolts at the base of the arms, maybe they need to get further into the center plate
+
+<img width="1544" height="681" alt="Screenshot 2026-07-22 at 17 25 25" src="https://github.com/user-attachments/assets/a8161876-af83-4c73-ae35-c211d44bea60" />
+
