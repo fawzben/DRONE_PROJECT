@@ -69,6 +69,14 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 - Do more of the physics (particularly dynamics, structure and material resistance)
 
 
+## Entry 3 (22/08/25)
+
+**What I did :**
+
+- Decided to do CAD on Fusion (no need for Catia for a not-so-big construction)
 
 
+- Started building the frame
+
+<img width="1233" height="859" alt="Screenshot 2026-07-22 at 13 04 00" src="https://github.com/user-attachments/assets/5e556e6b-443d-404a-99b9-d808baaa474a" />
 
