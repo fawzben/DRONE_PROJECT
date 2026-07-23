@@ -16,3 +16,11 @@ To read the pulsations (PWM) from the controller on the arduino :
 
 
 Once you have the desired pitched angle, the PID compares it with the IMU actual_pitch_angle to adjust the motors speeds
+
+
+### Power management
+
+11V is too much voltage for electronics. For this we use a little device (PDB (Power Distribution Board) with a built-in BEC (Battery Eliminator Circuit / Buck Converter), or an ESC board with a 5V BEC.):
+
+<img width="754" height="545" alt="Screenshot 2026-07-23 at 15 39 29" src="https://github.com/user-attachments/assets/06dd68a8-921a-4649-8105-581d04f174b7" />
+
