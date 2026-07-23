@@ -13,3 +13,8 @@ $$T_{tot}=2mg$$
 
 
 $$T_{i}=\frac12mg$$
+
+
+<img width="757" height="393" alt="Screenshot 2026-07-23 at 15 41 16" src="https://github.com/user-attachments/assets/f288c0ea-b484-4e9e-a547-5bfe30505814" />
+
+Gemini estimation
