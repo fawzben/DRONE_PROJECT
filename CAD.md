@@ -24,3 +24,7 @@
 - **Layout principle :** 3 plates : the bottom one will hold the battery under it, and will serve to put bolts through. The middle one will have screws to secure the arms, and will have the electronic components stacked on it. The top one will secure the whole
 
 <img width="1545" height="707" alt="Screenshot 2026-07-23 at 12 35 08" src="https://github.com/user-attachments/assets/9bf90be4-4917-4fd0-8ed6-e3ac902c0540" />
+
+- **with the holes for screws and bolts --> (v1 to print)** :
+  
+<img width="1360" height="832" alt="Screenshot 2026-07-25 at 20 10 20" src="https://github.com/user-attachments/assets/81169259-7048-4ed4-8dd5-92b8f6ef5404" />
