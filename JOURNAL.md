@@ -80,3 +80,32 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 
 <img width="1233" height="859" alt="Screenshot 2026-07-22 at 13 04 00" src="https://github.com/user-attachments/assets/5e556e6b-443d-404a-99b9-d808baaa474a" />
 
+## Entry 4 (25/08/25)
+
+**What I did :**
+
+- More CAD done, first workable/printable version ready
+
+
+- Ordered the propellers and motors, only battery stuff & controller left to buy
+
+
+
+<img width="1467" height="853" alt="Screenshot 2026-07-25 at 20 15 56" src="https://github.com/user-attachments/assets/2b90b9ce-6fa8-456c-b038-0aa6487e2da5" />
+
+
+
+**Next steps :**
+
+- Maybe print the 1st version
+
+
+- Look at open source code for inspo to configure the microcontroller
+
+
+- (Order the other stuff)
+
+
+
+
+
