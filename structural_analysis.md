@@ -7,3 +7,8 @@
 
 
 This shows that the arms do not have enough cross section area to resist bending moment, and risk to fail under motor activation. We simply make them longer, bc narrow long is better than wide thin for aerodynamics ig
+
+<img width="1710" height="1107" alt="Screenshot 2026-07-27 at 15 08 37" src="https://github.com/user-attachments/assets/c40732c0-3aab-4f19-82c4-1245d1f8c7be" />
+
+
+v2 right here. I added 1cm height to the arms, and added load on all four motors
