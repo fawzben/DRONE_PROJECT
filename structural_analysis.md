@@ -12,3 +12,7 @@ This shows that the arms do not have enough cross section area to resist bending
 
 
 v2 right here. I added 1cm height to the arms, and added load on all four motors
+
+
+<img width="1382" height="758" alt="Screenshot 2026-08-03 at 15 33 11" src="https://github.com/user-attachments/assets/2a7642c3-62f4-4f81-bea8-b3083677bef6" />
+that's the v3 after a few edits. The arms are strong enough, and the top plate was tested with a 50N load, which is way above the actual LiPo battery weight, even with acceleration. This ensures the safety of the drone frame, and we'll print this version
