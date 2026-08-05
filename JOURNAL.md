@@ -105,6 +105,29 @@ This sequence happens with a frequency of $\approx200\left\lbrack Hz\right\rbrac
 
 - (Order the other stuff)
 
+## Entry 5 (5/08/25)
+
+** What I did during 10 days** : 
+
+- Ordered and received most of the material
+
+<img width="4032" height="3024" alt="IMG_6576" src="https://github.com/user-attachments/assets/146ec5cb-42bd-4ec1-bf58-bb1121359821" />
+
+- Edited the CAD and ran simulations
+
+- 3D-Printed this workable frame
+
+<img width="4032" height="3024" alt="IMG_6613" src="https://github.com/user-attachments/assets/031ef587-f977-49c5-83dc-54322249d66e" />
+
+ - Started programming and wiring microcontroller and IMU
+ 
+
+<img width="4032" height="3024" alt="IMG_6610" src="https://github.com/user-attachments/assets/abea6eb7-91ef-4cb9-8b00-fcf3a78e7315" />
+
+
+
+
+
 
 
 
